@@ -10,8 +10,8 @@ By default this installation uses nginx/apache, MySQL, and php-fpm (PHP 7) image
 	1. [docker-compose](#step-1---docker-compose)
 	2. [File structure](#step-2---file-structure)
 	3. [Configuration](#step-3---configuration)
-	4. [Compose / Create containers](#step-4---compose-create-containers)
-	5. [(Optional) - Application routing](#step-5---optional-application-routing)
+	4. [Compose / Create containers](#step-4---compose--create-containers)
+	5. [(Optional) - Application routing](#step-5-optional---application-routing)
 - [Notes](#notes)
 ---
 
